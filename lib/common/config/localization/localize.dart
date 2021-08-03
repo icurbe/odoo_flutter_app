@@ -3,7 +3,7 @@ class Localize {
 
   static String cancel    = "Cancelar";
   static String done      = "done";
-  static String home      = "Agenda de Generación";
+  static String home      = "Home Page";
   static String password  = "Contraseña";
   static String signin    = "signin";
   static String email     = "Usuario";

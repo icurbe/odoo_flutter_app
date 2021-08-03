@@ -5,9 +5,9 @@ class EN {
     return {
       Localize.cancel: "Cancelar",
       Localize.done: "Done",
-      Localize.home: "Agenda de Generación",
+      Localize.home: "Home Page",
       Localize.password: "Contraseña",
-      Localize.signin: "Comercial Agua",
+      Localize.signin: "Flutter Odoo App",
       Localize.email: "Usuario",
       Localize.login: "Entrar"
     };

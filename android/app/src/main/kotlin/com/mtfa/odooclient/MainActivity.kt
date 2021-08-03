@@ -1,4 +1,4 @@
-package com.ec.protel.comercialagua
+package com.icurbe.flutterodoo
 
 import io.flutter.embedding.android.FlutterActivity
 

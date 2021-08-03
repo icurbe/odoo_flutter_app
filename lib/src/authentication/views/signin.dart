@@ -51,7 +51,6 @@ class _SignInState extends State<SignIn> {
           SizedBox(
             height: MediaQuery.of(context).size.height / 8,
           ),
-          Image.asset("assets/images/logo.png"),
           SizedBox(
             height: MediaQuery.of(context).size.height / 8,
           ),
@@ -77,7 +76,7 @@ class _SignInState extends State<SignIn> {
           SizedBox(
             height: 55,
             child: CustomButton(
-              color: AppColors.orange,
+              color: AppColors.orangeThemeColor,
               onPress: () {
                 FocusManager.instance.primaryFocus!.unfocus();
                 if (_emailController.text.isEmpty) {

@@ -37,18 +37,18 @@ class AppColors {
   static Color statusNotAcceptBg = HexColor("#FFEEE2");
 
   static MaterialColor orangeThemeColor = const MaterialColor(
-    0xFFF57C51,
+    0xFF4AD7DB,
     const <int, Color>{
-      50: const Color(0xFFF57C51),
-      100: const Color(0xFFF57C51),
-      200: const Color(0xFFF57C51),
-      300: const Color(0xFFF57C51),
-      400: const Color(0xFFF57C51),
-      500: const Color(0xFFF57C51),
-      600: const Color(0xFFF57C51),
-      700: const Color(0xFFF57C51),
-      800: const Color(0xFFF57C51),
-      900: const Color(0xFFF57C51),
+      50: const Color(0xFF4AD7DB),
+      100: const Color(0xFF4AD7DB),
+      200: const Color(0xFF4AD7DB),
+      300: const Color(0xFF4AD7DB),
+      400: const Color(0xFF4AD7DB),
+      500: const Color(0xFF4AD7DB),
+      600: const Color(0xFF4AD7DB),
+      700: const Color(0xFF4AD7DB),
+      800: const Color(0xFF4AD7DB),
+      900: const Color(0xFF4AD7DB),
     },
   );
 }

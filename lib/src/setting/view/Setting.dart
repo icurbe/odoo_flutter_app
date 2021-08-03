@@ -61,15 +61,6 @@ class _SettingState extends State<SettingView> {
         SizedBox(
           height: 4,
         ),
-        Container(
-          width: MediaQuery.of(context).size.width,
-          height: 20,
-          color: Colors.grey[200],
-          child: Text(
-            "Configuracion de la Conexión",
-            textAlign: TextAlign.center,
-          ),
-        ),
         SizedBox(
           height: 4,
         ),

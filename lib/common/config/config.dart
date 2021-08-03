@@ -7,9 +7,7 @@ class Config {
 
   ///Odoo URLs
   static  String OdooDevURL  = "";
-  //static String OdooProdURL =  settings.getUrl();//"http://erp.emsaba.gob.ec:8069/";
   static  String OdooUATURL  = "";
-  //static const String OdooProdURL = "http://186.33.164.198:8069/";
 
   /// SelfSignedCert:
   static const selfSignedCert = false;

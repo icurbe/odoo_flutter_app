@@ -55,7 +55,7 @@ class _AppState extends State<App> {
         fontFamily: AppFont.Roboto_Regular,
       ),
       debugShowCheckedModeBanner: false,
-      title: '',
+      title: 'Flutter Odoo App',
       localizationsDelegates: [
         GlobalMaterialLocalizations.delegate,
         GlobalWidgetsLocalizations.delegate,

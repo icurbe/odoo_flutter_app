@@ -18,7 +18,6 @@ getVersionInfoAPI() {
         serverVersionNumber: response.serverVersionInfo![0],
         onResponse: (response) {
           Log(response);
-          //Config.DB = response[Config.DB];
         },
         onError: (error, data) {
           handleApiError(error);
