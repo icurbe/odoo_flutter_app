@@ -1,0 +1,108 @@
+name: odoo_common_code_latest
+description: Odoo Flutter App iCurbe.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter_localizations:
+    sdk: flutter
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.3
+  intl: ^0.17.0
+  device_info: ^2.0.2
+  dio: ^4.0.0
+  shared_preferences: ^2.0.6
+  get: ^4.1.4
+  action_broadcast: ^3.0.1
+  country_code_picker: ^2.0.1
+  path_provider: ^2.0.2
+  cached_network_image: ^3.0.0
+  geolocator: ^7.1.1
+  image_picker: ^0.8.1+1
+  localstorage: ^4.0.0+1
+  provider: ^5.0.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  fonts:
+    - family: RobotoBlack
+      fonts:
+        - asset: assets/fonts/Roboto-Black.ttf
+    - family: RobotoBlackItalic
+      fonts:
+        - asset: assets/fonts/Roboto-BlackItalic.ttf
+    - family: RobotoBold
+      fonts:
+        - asset: assets/fonts/Roboto-Bold.ttf
+    - family: RobotoBoldItalic
+      fonts:
+        - asset: assets/fonts/Roboto-BoldItalic.ttf
+    - family: RobotoItalic
+      fonts:
+        - asset: assets/fonts/Roboto-Italic.ttf
+    - family: RobotoLight
+      fonts:
+        - asset: assets/fonts/Roboto-Light.ttf
+    - family: RobotoLightItalic
+      fonts:
+        - asset: assets/fonts/Roboto-LightItalic.ttf
+    - family: RobotoMedium
+      fonts:
+        - asset: assets/fonts/Roboto-Medium.ttf
+    - family: RobotoMediumItalic
+      fonts:
+        - asset: assets/fonts/Roboto-MediumItalic.ttf
+    - family: RobotoRegular
+      fonts:
+        - asset: assets/fonts/Roboto-Regular.ttf
+    - family: RobotoThin
+      fonts:
+        - asset: assets/fonts/Roboto-Thin.ttf
+    - family: RobotoThinItalic
+      fonts:
+        - asset: assets/fonts/Roboto-ThinItalic.ttf
+  uses-material-design: true
+  assets:
+    - assets/images/
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
